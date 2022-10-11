@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @GalPeled
-- 👀 I’m interested in Cloud Computing/DevOps culture
-- 🌱 I’m currently studing ...(actually an AWS Re/Start Student at Appleseeds)
-- 💞️ I’m looking to collaborate on Innovation, hard work with impact
-- 📫 How to reach me by my email - roketir@gmail.com
+# Gal Peled is my name, Cloud Computing is the game!
+- 👋 Hi, I’m @GalPeled, an aspired Cloud Engineering student.
+- 👀 I’m interested in Cloud Computing/DevOps culture and technologies.
+- 🌱 I’m currently A student in "AWS Re/Start Program" at Appleseeds Academy - Focusing on:
+  - Python
+  - Shell scripting
+  - Linux administration
+  - Databases (MySQL and NoSQL (DynamoDB)
+  - AWS Cloud Services
+  - Docker and much more
+
+- 💞️ I’m looking to collaborate on Innovation. I don't fear hard work, yet I'm searching for a meaning.
+- 📫 I can be reached on roketir@gmail.com
 
 <!---
 roketir/roketir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
